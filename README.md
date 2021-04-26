@@ -1,5 +1,5 @@
 # Springboot-Microservice
-Microservices built with spring boot
+Microservices built with spring boot, deploy to kubernetes cluster
 
 ## Feautures
 
@@ -7,4 +7,8 @@ Microservices built with spring boot
 - Netflix Eureka Cloud and Discovery server
 - Spring Cloud API Gateway Server
 - Hystrix
-- Zipkin Distributed Tracking with Sleuth and Rabbit MQ
+- Zipkin Distributed Tracking with Sleuth
+
+### More
+- Docker
+- Kubernetes
